@@ -1,2 +1,2 @@
 # google-homepage
-project work for theodinproject
+project work for www.theodinproject.com
